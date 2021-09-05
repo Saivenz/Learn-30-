@@ -1,0 +1,20 @@
+This is my first concept in my project learn 30 :)
+
+what is cross site scripting
+
+Cross-site scripting is a type of security vulnerability typically found in web applications. \
+XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users.
+A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy
+
+1) stored XSS
+2) reflected xss
+3) DOM(document object model) based xss
+
+These three are the major types in cross site scripting.
+
+Stored xss:
+  stored xss is a our paylaod is stored in target website servers and that is reflected to all users in the website.
+reflected Xss:
+  reflected xss is a check for input field in the website and inject the payload the payload is reflected only for you .
+Dom xss:
+dom based s an XSS attack wherein the attack payload is executed as a result of modifying the DOM “environment” in the victim's browser used by the original client side script, so that the client side code runs in an “unexpected” manner.
